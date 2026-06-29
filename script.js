@@ -1,4 +1,4 @@
-const destinationEmail = "kinovia@hotmail.com";
+const destinationEmail = "registration@kinovia.io";
 
 document.querySelector(".interest-form").addEventListener("submit", function (event) {
   event.preventDefault();
